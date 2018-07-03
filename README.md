@@ -2,9 +2,9 @@
 Scripts to interact with GW Instek GDS 1000B oscilloscopes.
 
 ## Pre-requisites
-Python 3
-Pillow (`pip3 install Image`)
-PySerial (`pip3 install pyserial`)
+* Python 3
+* Pillow (`pip3 install Image`)
+* PySerial (`pip3 install pyserial`)
 
 ### capture_screen.py
 Captures a screenshot of the current display.
